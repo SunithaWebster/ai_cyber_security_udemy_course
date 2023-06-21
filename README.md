@@ -7,10 +7,9 @@ The course combines Data Science, Machine Learning and Deep Learning, to create 
 I will learn key AI concepts and intuition training, covering:
 
 - How to start building AI.
-
 - How to solve AI problems in the cyber security field.
 
-Here is what you will get with this course:
+
 
 ## Overview of Learning Objectives
 

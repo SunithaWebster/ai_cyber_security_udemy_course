@@ -2,7 +2,7 @@
 
 A record of my progress through 'The Complete Artificial Intelligence for Cyber Security' Udemy course, found here, https://www.udemy.com/course/the-complete-artificial-intelligence-for-cyber-security-2021/
 
-The course combines Data Science, Machine Learning and Deep Learning to create AI for Real-World applications.
+The course combines Data Science, Machine Learning and Deep Learning, to create AI for Real-World applications.
 
 I will learn key AI concepts and intuition training, covering:
 
